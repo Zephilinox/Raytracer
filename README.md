@@ -22,8 +22,6 @@ More can be found in the respective folder.
 
 ## Instructions
 
-Made for a university module.
-
 You will need to install rust from their website but nothing else, cargo is the package manager for rust and will grab everything automatically
 
 src/main.rs is the main script
