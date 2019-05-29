@@ -1,0 +1,11 @@
+[package]
+name = "rust_raytracer"
+version = "0.1.0"
+authors = ["Zephilinox <zephilinox@hotmail.co.uk>"]
+
+[dependencies]
+nalgebra = "0.16.9"
+rand = "0.6.0"
+rayon = "1.0.3"
+image = "*"
+tobj = "0.1.6"
