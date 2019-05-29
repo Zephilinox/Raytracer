@@ -4,9 +4,6 @@ A raytracer in Rust following Pete Sirleys ebooks, with a BVH. Made in 5 weeks f
 ## 30-second Trailer
 https://www.youtube.com/watch?v=MS9azYZO7zQ
 
-## Paper
-todo
-
 ## Weekly development videos
 https://www.youtube.com/watch?v=aZYAK2H6lus&list=PLAu3dU8p746BB1z4TUxNWb8e1J3OjnxYR&index=6
 
