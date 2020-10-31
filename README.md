@@ -1,5 +1,5 @@
 # Raytracer
-A raytracer in Rust following Pete Sirleys ebooks, with a BVH. Made in 5 weeks for a university module.
+A raytracer in Rust following Pete Shirleys ebooks, with a BVH. Made in 5 weeks for a university module.
 
 ## 30-second Trailer
 https://www.youtube.com/watch?v=MS9azYZO7zQ
